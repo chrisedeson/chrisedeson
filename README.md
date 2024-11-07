@@ -1,4 +1,4 @@
-![github-user-hero](https://github.com/chrisedeson/christopher_edeson/assets/display.jpg)
+![github-user-hero](https://github.com/chrisedeson/christopher_edeson/blob/main/assets/display.jpg)
 
 <h1 align="center">Hi 👋, I'm Christopher Edeson</h1>
 <h3 align="center">Aspiring Software Developer & Technology Enthusiast</h3>
@@ -9,7 +9,9 @@
 
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/chrisedeson/).
 
-- 📫 Reach out to me at **edesonchristopher@gmail.com** or via **WhatsApp**: +234 906 870 5107.
+- 📫 Reach out to me at **edesonchristopher@gmail.com** or via 
+
+- **WhatsApp**: +234 906 870 5107.
 
 - ⚡ Fun fact: I enjoy practicing classical sheet music on the piano and organ, and researching emerging technologies.
 
