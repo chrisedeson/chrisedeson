@@ -11,7 +11,7 @@
 
 - 📫 Reach out to me at **edesonchristopher@gmail.com** or via 
 
-- **WhatsApp**: +234 906 870 5107.
+- 📞 **WhatsApp**: +234 906 870 5107.
 
 - ⚡ Fun fact: I enjoy practicing classical sheet music on the piano and organ, and researching emerging technologies.
 
