@@ -40,7 +40,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 5px;"/>
 </a>
 <a href="https://www.facebook.com/christopher.edeson" target="blank">
-<img align="center" src="assets/facebook.png" alt="Facebook" height="30" width="30" style="margin-right: 8px;"/>
+<img align="center" src="assets/facebook.png" alt="Facebook" height="30" width="30" style="margin-right: 10px;"/>
 </a>
 <a href="https://www.loom.com/share/bc74fd267bf04b69bfedabfd17295708?sid=6eeddad9-62ce-4869-ba91-c11be8885592" target="blank" style="margin-right: 5px;">
 <img align="center" src="assets/loom-logo.png" alt="Loom" height="30" width="30"/>
