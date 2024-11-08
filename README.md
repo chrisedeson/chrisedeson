@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin-right: 2px;/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin-right: 2px;"/>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -42,13 +42,13 @@
 <a href="https://www.facebook.com/christopher.edeson" target="_blank">
 <img align="center" src="assets/facebook.png" alt="Facebook" height="30" width="30" style="margin-right: 8px;"/>
 </a>
-<a href="https://www.loom.com/share/bc74fd267bf04b69bfedabfd17295708?sid=6eeddad9-62ce-4869-ba91-c11be8885592" target="_blank" style="margin-right: 5px;">
-<img align="center" src="assets/loom-logo.png" alt="Loom" height="30" width="30"/>
+<a href="https://www.loom.com/share/bc74fd267bf04b69bfedabfd17295708?sid=6eeddad9-62ce-4869-ba91-c11be8885592" target="_blank">
+<img align="center" src="assets/loom-logo.png" alt="Loom" height="30" width="30" style="margin-right: 5px;"/>
 </a>
 <a href="https://api.whatsapp.com/send/?phone=2349068705107&text&type=phone_number&app_absent=0" target="_blank">
-<img align="center" src="assets/whatsapp.png" alt="Whatsapp" height="40" width="35"</a>
+<img align="center" src="assets/whatsapp.png" alt="Whatsapp" height="40" width="35"/>
+</a>
 </p>
-
 
 <h3 align="center">My Stats:</h3>
 <p>
