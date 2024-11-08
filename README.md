@@ -43,7 +43,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
 </a>
 <a href="https://www.loom.com/share/bc74fd267bf04b69bfedabfd17295708?sid=6eeddad9-62ce-4869-ba91-c11be8885592" target="blank">
-<img align="center" src="assets/loom-logo.png" alt="Loom" height="30" width="40"/>
+<img align="center" src="assets/loom-logo.png" alt="Loom" height="40" width="40"/>
 </a>
 </p>
 
