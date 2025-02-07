@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Christopher Edeson</h1>
 <h3 align="center">Aspiring Software Developer & Technology Enthusiast</h3>
 
-- 🚗 I’m currently working on **[NextRide](https://chrisedeson.github.io/wdd231/project/index.html)**, a car sales and rental website, and a **small-scale business directory** to support local services in Lagos.
-
-- 🖥️ I’m expanding my knowledge in **C#** as part of my journey in software development.
+- 🖥️ I’m expanding my knowledge in **C#**, **Python** and **AI** as part of my journey in software development.
 
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/chrisedeson/).
 
