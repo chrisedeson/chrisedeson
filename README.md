@@ -1,7 +1,7 @@
 ![github-user-hero](https://github.com/chrisedeson/christopher_edeson/blob/main/assets/display.jpg)
 
 <h1 align="center">Hi 👋, I'm Christopher Edeson</h1>
-<h3 align="center">Aspiring Software Developer & Technology Enthusiast</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 🖥️ I’m expanding my knowledge in **C#**, **Python** and **AI** as part of my journey in software development.
 
